@@ -1,0 +1,53 @@
+.button
+{
+	-fx-background-color :  #1d2732;
+	-fx-border-color:  #01BAEF;
+	-fx-border-radius: 20;
+	-fx-background-radius: 20;
+}
+
+.button:hover
+{
+	-fx-background-color : #12445a;
+}
+
+.button1
+{
+	-fx-background-color :  #1d2732;
+	-fx-border-color:  #01BAEF;
+	-fx-border-radius: 15;
+	-fx-background-radius: 15;
+}
+
+.button1:hover
+{
+	-fx-background-color : #12445a;
+}
+
+.textarea
+{
+	-fx-control-inner-background: #282c38;
+	-fx-text-fill: #FFFFFF;
+	-fx-border-color:  #01BAEF;
+	-fx-background-color:  #01BAEF;
+}
+
+.textfield
+{
+	-fx-background-color:  #282c38;
+	-fx-border-color:  #01BAEF;
+	-fx-border-radius: 10;
+	-fx-background-radius: 10;
+	-fx-text-fill: #FFFFFF;
+}
+
+.progress
+{
+	-fx-text-box-border: #FFFFFF;
+  	-fx-control-inner-background:  #1e212a;
+}
+
+.bg
+{
+	-fx-background-color:  #1e212a;
+}
